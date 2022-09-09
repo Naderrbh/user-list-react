@@ -1,0 +1,4 @@
+.user--dashbord {
+  display: flex;
+  justify-content: space-around;
+}
